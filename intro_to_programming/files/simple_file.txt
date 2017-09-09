@@ -1,0 +1,9 @@
+#Exercise 1 - Below are results for taking file's contents as
+input and creating a new transformed file:
+
+#File was also used in reporting files with .txt extensions for
+exercise 2
+
+
+another example of writing to a file
+Here we are with a new line of textWriting a file to Ruby is simple
